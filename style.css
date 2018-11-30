@@ -1,0 +1,27 @@
+
+body {
+  background-color: #4aaaa5;
+}
+
+header {
+  width: 960px;
+  background-color: #ffffff;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+section {
+  width: 960px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 15px;
+}
+
+#name {
+  border: 1px black;
+  background-color: #4aaaa5;
+  display: block;
+  float: left;
+  margin: 0 20px;
+  text-align: center;
+}
